@@ -1,5 +1,7 @@
-const personDB = require('./personDB');
+const personRoutes = require('./person');
+
+//const cust = require('./customer');
 
 module.exports = {
-	personDB
+	personRoutes
 };
