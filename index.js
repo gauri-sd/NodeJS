@@ -1,5 +1,5 @@
-const personController = require('./personController');
+const personDB = require('./personDB');
 
 module.exports = {
-	personController
+	personDB
 };
